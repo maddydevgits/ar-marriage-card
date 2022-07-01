@@ -1,8 +1,9 @@
 # ar-marriage-card
 official repo of my project
 
-# Database
+# Target
 
+<img src="wedding-image.jpg" />
 
 # Softwares
 1. Unity Hub
